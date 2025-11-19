@@ -55,5 +55,4 @@ Uses Matplotlib to show:
 
 ---
 
-## 🗂 **Project Structure**
 
